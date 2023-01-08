@@ -1,2 +1,2 @@
 # LanguageTools
-Basical text based language tools for Android.
+Basic text based language tools for Android.
